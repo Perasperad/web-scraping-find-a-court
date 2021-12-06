@@ -9,5 +9,5 @@ Python
 Selenium webdriver
 
 ### Usage
-In order to automate the scripts I decided to create 2 batch files (1 for each .py file) and set a windows scheduled task to run in the background the scripts.
-
+In order to automate the scripts I decided to create 2 batch files (1 for each .py file) and set a windows scheduled task to run in the background the scripts.  
+[see my basic batch file](Run_Script_0-4days.bat)
