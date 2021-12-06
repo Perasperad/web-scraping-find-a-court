@@ -1,2 +1,2 @@
-"C:\Users\tbart\AppData\Local\Programs\Python\Python36\python.exe" "C:\Users\tbart\Desktop\prenotazione\test_prenotazione - 6.0 - 5-12 gg.py"
+"C:\Users\*your username*\AppData\Local\Programs\Python\Python36\python.exe" "C:\Users\*your username*\Desktop\*your folder*\5-12 days.py"
 pause
