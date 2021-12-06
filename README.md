@@ -3,7 +3,7 @@ This is a web scraping script, written in python, that helped me to look for ava
 Basically the script sends messages on a Telegram group with all the courts-slots displayed on a list, each court has its own booking link.   
 I scraped the italian application "Prenota un campo" --> https://www.prenotauncampo.it/
 
-In order to parallelize more activities, and thus be faster, I decided to split the project in two scripts: the first has to scrape from 1st to the 4th day forward, the second from the 5th to 12nd days  
+In order to parallelize more activities, and thus be faster, I decided to split the project in two scripts: the first has to scrape from 1st to the 4th day forward, the second from the 5th to 12nd day
 ### Built With
 Python  
 Selenium webdriver
